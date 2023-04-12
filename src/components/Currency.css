@@ -1,17 +1,15 @@
 
+.currency_container {
+   background-color: lightgreen;
+}
+
 .currency_dropdown {
-   background-color: 'lightgreen';
+    background-color: lightgreen;
+    color: white;
 }
-
 .currency_option {
-   background-color: 'lightgreen';
-}
-
-.dropdown {
-    background-color: #93e499;
-    color: #ffffff;
-    border: 0;
-    width: 60%;
+   background-color: lightgreen;
+    color: white;
 }
 
 .dropdown option {
